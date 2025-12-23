@@ -74,10 +74,4 @@ python train.py
 
 Configuration files and settings can be found in the respective modules. Each component is designed to be modular and configurable.
 
-## Contributing
 
-Please ensure all code follows the existing style and includes appropriate documentation.
-
-## License
-
-[Add your license information here]
